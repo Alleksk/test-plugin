@@ -1,0 +1,11 @@
+columns:
+    name:
+        label: 'alleks.translate::lang.translate.name'
+        type: text
+        searchable: true
+        sortable: true
+    site_name:
+        label: 'alleks.translate::lang.translate.site_name'
+        type: text
+        searchable: true
+        sortable: true

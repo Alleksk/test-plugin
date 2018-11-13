@@ -1,0 +1,12 @@
+tabs:
+    fields:
+        name:
+            label: 'alleks.translate::lang.translate.name'
+            span: auto
+            type: text
+            tab: 'Tab 1'
+        site_name:
+            label: 'alleks.translate::lang.translate.site_name'
+            span: auto
+            type: site_name
+            tab: 'Tab 1'

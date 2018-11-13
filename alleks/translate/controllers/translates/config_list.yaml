@@ -1,0 +1,12 @@
+list: $/alleks/translate/models/translate/columns.yaml
+modelClass: Alleks\Translate\Models\Translate
+title: Translates
+noRecordsMessage: 'backend::lang.list.no_records'
+showSetup: true
+showCheckboxes: true
+recordsPerPage: 20
+toolbar:
+    buttons: list_toolbar
+    search:
+        prompt: 'backend::lang.list.search_prompt'
+recordUrl: 'alleks/translate/translates/update/:id'

@@ -1,0 +1,10 @@
+name: Translates
+form: $/alleks/translate/models/translate/fields.yaml
+modelClass: Alleks\Translate\Models\Translate
+defaultRedirect: alleks/translate/translates
+create:
+    redirect: 'alleks/translate/translates/update/:id'
+    redirectClose: alleks/translate/translates
+update:
+    redirect: alleks/translate/translates
+    redirectClose: alleks/translate/translates

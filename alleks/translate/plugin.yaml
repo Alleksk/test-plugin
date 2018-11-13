@@ -1,0 +1,11 @@
+plugin:
+    name: 'alleks.translate::lang.plugin.name'
+    description: 'alleks.translate::lang.plugin.description'
+    author: Alleks
+    icon: oc-icon-apple
+    homepage: ''
+navigation:
+    main-menu-item:
+        label: 'alleks.translate::lang.plugin.name'
+        url: alleks/translate/translates
+        icon: icon-apple

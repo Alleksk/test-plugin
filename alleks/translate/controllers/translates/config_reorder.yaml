@@ -1,0 +1,4 @@
+title: Translates
+modelClass: Alleks\Translate\Models\Translate
+toolbar:
+    buttons: reorder_toolbar
